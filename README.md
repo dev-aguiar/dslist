@@ -1,4 +1,4 @@
-#🎮 dslist 🎮 
+# 🎮 dslist 🎮 
 
 O dslist é um projeto que organiza títulos de jogos em listas para os usuários.  
 Este projeto foi desenvolvido para treinar o conhecimento e as boas práticas no uso de Spring Boot com JPA e Hibernate.
